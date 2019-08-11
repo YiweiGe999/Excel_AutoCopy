@@ -1,0 +1,9 @@
+/* File name */
+file_name = Excel.xls
+
+/* Sheet name*/
+sheet1 = SHEET1
+sheet2 = SHEET2
+sheet3 = SHEET3
+sheet4 = SHEET4
+
